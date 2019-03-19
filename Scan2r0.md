@@ -7,9 +7,9 @@
 ------
 
 History of this document:
-| version | author       | date       | topic       |
-| :------ | :----------- | :--------- | :---------- |
-| 0.9     | Ernst Schmid | 2019-03-08 | first draft |
+| version | author | date       | topic       |
+| :------ | :----- | :--------- | :---------- |
+| 0.9     | EJS    | 2019-03-08 | first draft |
 ------
 **Table of Contents**
 
