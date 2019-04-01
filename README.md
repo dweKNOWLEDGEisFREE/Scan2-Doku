@@ -1,4 +1,4 @@
-# Scan2-Doku
+# Scan2Doku
 Global documentation for the **Scan2** suite and concepts.
 
 Editor used: [Typora](https://typora.io/)
